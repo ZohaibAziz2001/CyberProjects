@@ -16,7 +16,7 @@ This is where I will post all my completed and in-progress projects.
 
 # Project: Geolocation Data Extraction for RDP Brute Force Attacks in Azure `(Completed)`
 
-_For this project, I developed a comprehensive security solution in Azure to proactively detect and visualize Remote Desktop Protocol (RDP) brute force attacks. Using a honeypot VM and Azure Sentinel, I automated the process of parsing Windows Event Viewer logs, extracting IP addresses, and enriching data with geolocation information. This allowed for the creation of a dynamic threat map, providing real-time visibility into attack origins and enabling swift response to potential security breaches. This project effectively demonstrates my hands-on experience in utilizing SIEM tools, threat detection, and data visualization techniques to bolster cybersecurity defenses in Azure environments.
+_For this project, I developed a comprehensive security solution in Azure to proactively detect and visualize Remote Desktop Protocol (RDP) brute force attacks. Using a honeypot VM and Azure Sentinel, I automated the process of parsing Windows Event Viewer logs, extracting IP addresses, and enriching data with geolocation information. This allowed for the creation of a dynamic threat map, providing real-time visibility into attack origins and enabling swift response to potential security breaches. This project effectively demonstrates my hands-on experience in utilizing SIEM tools, threat detection, and data visualization techniques to bolster cybersecurity defenses in Azure environments._
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
