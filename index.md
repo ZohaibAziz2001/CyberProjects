@@ -2,123 +2,44 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Welcome To My Cybersecurity Project's Github!
+# Welcome To My Cybersecurity Project's GitHub!
 
 This is where I will post all my completed and in-progress projects.
 
-# Project: Geolocation Data Extraction for RDP Brute Force Attacks in Azure `(Completed)`
+# Project: Geolocation Data Extraction for RDP Brute Force Attacks in Azure `(March 2024 - Present)`
 
-_For this project, I developed a comprehensive security solution in Azure to proactively detect and visualize Remote Desktop Protocol (RDP) brute force attacks. Using a honeypot VM and Azure Sentinel, I automated the process of parsing Windows Event Viewer logs, extracting IP addresses, and enriching data with geolocation information. This allowed for the creation of a dynamic threat map, providing real-time visibility into attack origins and enabling swift response to potential security breaches. This project effectively demonstrates my hands-on experience in utilizing SIEM tools, threat detection, and data visualization techniques to bolster cybersecurity defenses in Azure environments._
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+_For this project, I developed a PowerShell-based solution to enhance Azure’s ability to detect and mitigate Remote Desktop Protocol (RDP) brute force attacks._  
+**Key Features:**
+- Developed scripts to parse and extract geolocation data from Windows Event Viewer logs.
+- Automated the detection of suspicious RDP login attempts.
+- Integrated real-time geolocation APIs to map the origins of attacks visually, improving incident response.
 
-### Header 3
+> This project demonstrates expertise in automation, Azure cloud security, and leveraging PowerShell for threat detection.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+---
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+# Project: Security Operations Center (SOC) Lab Development and HoneyPot Project `(January 2024 - Present)`
 
-#### Header 4
+_This ongoing project involves designing a versatile Security Operations Center (SOC) lab environment for advanced threat simulation and incident response._  
+**Key Features:**
+- Architected a multi-OS SOC lab with Linux and Windows systems to simulate real-world cyberattacks.
+- Integrated a honeypot into Splunk via a universal forwarder to capture and analyze attacker behavior.
+- Gained valuable insights into malicious network traffic, aiding in incident response training.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+> This project highlights my ability to develop complex lab environments for cybersecurity training and data-driven threat analysis.
 
-##### Header 5
+---
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+# Project: Phishing Analysis `(November 2023)`
 
-###### Header 6
+_A phishing analysis project focused on enhancing organizational resilience against phishing attacks._  
+**Key Features:**
+- Analyzed over 100 phishing emails within a secure virtual environment.
+- Classified phishing attempts based on tactics, techniques, and procedures (TTPs).
+- Developed and implemented a phishing awareness system that resulted in a 75% reduction in successful phishing attempts.
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+> This project showcases my expertise in email security, phishing detection, and security awareness training.
 
-### There's a horizontal rule below this.
+---
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+More projects and detailed case studies will be added here soon. Stay tuned!
