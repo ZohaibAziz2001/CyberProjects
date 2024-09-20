@@ -51,4 +51,4 @@ Stay tuned for updates! More projects and detailed case studies will be added re
 ## Contact
 Feel free to reach out for collaboration or questions:
 - **Email**: zohaibaaziz01@gmail.com
-- **LinkedIn**: [Zohaib Aziz]((https://www.linkedin.com/in/zohaib-a-aziz/))
+- **LinkedIn**: [Zohaib Aziz](https://www.linkedin.com/in/zohaib-a-aziz/)
