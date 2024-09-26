@@ -17,4 +17,4 @@ More projects and detailed case studies will be added soon.
 
 
 ## Contact Me
-Feel free to reach out via [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/zohaib-a-aziz/)) or email me at [zohaibaaziz01@gmail.com](mailto:zohaibaaziz01@gmail.com)!
+Feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/zohaib-a-aziz/](https://www.linkedin.com/in/zohaib-a-aziz/)) or email me at [zohaibaaziz01@gmail.com](mailto:zohaibaaziz01@gmail.com)!
