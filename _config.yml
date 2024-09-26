@@ -2,5 +2,4 @@ title: "Zohaib's CyberSecurity Portfolio"
 description: This is where I will post my cybersecurity projects!
 show_downloads: true
 google_analytics:
-theme: minima
-
+theme: jekyll-theme-hacker
