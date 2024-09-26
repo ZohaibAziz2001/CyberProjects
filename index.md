@@ -3,7 +3,7 @@
 Here, I will showcase my completed and ongoing projects.
 
 ## Projects
-- [Geolocation Data Extraction for RDP Brute Force Attacks](geolocation.md)
+- [Geolocation Data Extraction for RDP Brute Force Attacks](geolocation2.md)
 - [SOC Lab Development and Honeypot Project](soc-lab.md)
 - [Phishing Analysis](phishing.md)
 
