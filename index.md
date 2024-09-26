@@ -7,4 +7,14 @@ Here, I will showcase my completed and ongoing projects.
 - [SOC Lab Development and Honeypot Project](soc-lab.md)
 - [Phishing Analysis](Phishing-Analysis.md)
 
+  ## Future Goals
+My goal is to specialize in threat intelligence and contribute to developing advanced security measures that protect organizations from emerging cyber threats.
+
+
 More projects and detailed case studies will be added soon.
+
+
+
+
+## Contact Me
+Feel free to reach out via [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/zohaib-a-aziz/)) or email me at [zohaibaaziz01@gmail.com](mailto:zohaibaaziz01@gmail.com)!
