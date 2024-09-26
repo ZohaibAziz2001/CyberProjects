@@ -5,9 +5,13 @@ This ongoing project involves creating a multi-OS Security Operations Center (SO
 
 ## Features
 - Multi-OS Lab Architecture: Architected a versatile lab environment supporting both Linux and Windows systems, enabling the simulation of diverse attack scenarios and defense strategies.
+  
 - Honeypot Integration: Integrated a honeypot into Splunk to actively monitor and analyze malicious traffic, capturing attacker behavior and providing valuable insights for incident response training.
+  
 - Configured pfSense Firewall: Set up a pfSense firewall to secure network traffic within the lab, implementing robust security rules to control access and mitigate potential threats.
+  
 - Vulnerability Assessments via Nessus: Conducted regular vulnerability assessments using Nessus to identify and remediate security weaknesses, enhancing the overall security posture of the lab environment.
+
 - Data-Driven Threat Analysis: Utilized Splunk forwarding from the honeypot to collect and analyze attack data, facilitating real-time visibility into security incidents and improving response capabilities.
 
 
