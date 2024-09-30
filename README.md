@@ -3,7 +3,7 @@
 Welcome to my Cybersecurity Projects repository! This repository contains a collection of my completed and in-progress cybersecurity projects, showcasing my skills in automation, threat detection, incident response, and more.
 
 ## Table of Contents
-1. [Geolocation Data Extraction for RDP Brute Force Attacks](#geolocation-data-extraction-for-rdp-brute-force-attacks)
+1. [Geolocation Data Extraction for RDP Brute Force Attacks](geolocation.md)
 2. [SOC Lab Development and Honeypot Project](#soc-lab-development-and-honeypot-project)
 3. [Phishing Analysis](#phishing-analysis)
 
